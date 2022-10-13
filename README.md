@@ -9,8 +9,8 @@ In the multiview stereo algorithm, we sweep imaginary depth planes (fronto-paral
 
 Below is the reconstruction using two-view algorithm:
 
-<img src="./Pictures/crazyflie.gif">
+<img src="./Results/two_view1.gif">
 
 Below is the reconstruction using multi-view algorithm:
 
-<img src="./Pictures/crazyflie.gif">
+<img src="./Results/plane1.gif">
